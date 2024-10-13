@@ -1,13 +1,5 @@
-# MarkdownSfyr
+# Definition SFYR
 
-# Heading level 1
+# Structure
 
-## Heading level 2
-
-### Heading level 3
-
-#### Heading level 4
-
-##### Heading level 5
-
-###### Heading level 6
+`"The structure refers to the organized assembly of multiple components that work together in an integrated manner."`
