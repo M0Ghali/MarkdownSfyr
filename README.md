@@ -1,6 +1,6 @@
 # Definition SFYR
 
-# System v
+# System
 
 A system is a group of interacting and interrelated elements that operate according to a set of rules and procedures, with the aim of achieving specific objectives.
 
