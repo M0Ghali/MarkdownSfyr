@@ -6,7 +6,7 @@ A system is a group of interacting and interrelated elements that operate accord
 
 # Structure
 
-The structure refers to the organized assembly of multiple components that work together in an integrated manner within the system
+The structure refers to the organized assembly of multiple components that work together in an integrated manner within the [system ](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#system)
 
 - Examples
   - Entities
