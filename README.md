@@ -1,19 +1,18 @@
 # Definition SFYR
 
-# system
+# System
 
 A system is a group of interacting and interrelated elements that operate according to a set of rules and procedures, with the aim of achieving specific objectives.
-[employee](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#employee)
 
 # Structure
 
 The structure refers to the organized assembly of multiple components that work together in an integrated manner within the [system ](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#system)
 
 - Examples
-  - Entities
+  - [Entities](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#entity)
   - Departments
-  - Positions
-  - Roles
+  - [Positions](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#position)
+  - [Roles](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#roles)
   - Work Locations
     ![Structure](https://www.conceptdraw.com/How-To-Guide/picture/Chen-ERD--sample.png)
 
