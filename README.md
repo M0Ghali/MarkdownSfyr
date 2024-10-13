@@ -14,7 +14,7 @@ The structure refers to the organized assembly of multiple components that work 
   - Positions
   - Roles
   - Work Locations
-  - ![Structure](https://www.conceptdraw.com/How-To-Guide/picture/Chen-ERD--sample.png)
+    ![Structure](https://www.conceptdraw.com/How-To-Guide/picture/Chen-ERD--sample.png)
 
 # Position
 
