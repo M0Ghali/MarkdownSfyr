@@ -4,6 +4,8 @@
 
 "The structure refers to the organized assembly of multiple components that work together in an integrated manner."
 
+![employee](https://www.conceptdraw.com/How-To-Guide/picture/Chen-ERD--sample.png)
+
 # Position
 
 Position refers to the job that an [employee](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#employee) occupies within a particular entity, encompassing a set of defined responsibilities and tasks associated with that position, which in turn grants certain permissions necessary to accomplish those tasks.
