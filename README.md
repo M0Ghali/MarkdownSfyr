@@ -6,7 +6,7 @@
 
 # Position
 
-Position refers to the job that an [employee](https://github.com/M0Ghali/MarkdownSfyr/blob/main/README.md#L19) occupies within a particular entity, encompassing a set of defined responsibilities and tasks associated with that position, which in turn grants certain permissions necessary to accomplish those tasks.
+Position refers to the job that an [employee](https://gitkraken.dev/link/dnNjb2RlOi8vZWFtb2Rpby5naXRsZW5zL2xpbmsvci9lM2NjODI5ZDhlZDJlM2Y5MWQ3M2M2NDFiMTI2MDIzNjE0MjM1MTkwL2YvUkVBRE1FLm1kP3VybD1odHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZNMEdoYWxpJTJGTWFya2Rvd25TZnlyLmdpdA%3D%3D?origin=gitlens) occupies within a particular entity, encompassing a set of defined responsibilities and tasks associated with that position, which in turn grants certain permissions necessary to accomplish those tasks.
 
 # Entity
 
