@@ -1,10 +1,20 @@
 # Definition SFYR
 
+# system
+
+A system is a group of interacting and interrelated elements that operate according to a set of rules and procedures, with the aim of achieving specific objectives.
+
 # Structure
 
-"The structure refers to the organized assembly of multiple components that work together in an integrated manner."
+The structure refers to the organized assembly of multiple components that work together in an integrated manner within the system
 
-![employee](https://www.conceptdraw.com/How-To-Guide/picture/Chen-ERD--sample.png)
+- Examples
+  - Entities
+  - Departments
+  - Positions
+  - Roles
+  - Work Locations
+  - ![Structure](https://www.conceptdraw.com/How-To-Guide/picture/Chen-ERD--sample.png)
 
 # Position
 
