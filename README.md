@@ -4,7 +4,7 @@
 
 A system is a group of interacting and interrelated elements that operate according to a set of rules and procedures, with the aim of achieving specific objectives.
 
-# Structure 0
+# Structure
 
 The structure refers to the organized assembly of multiple components that work together in an integrated manner within the [system ](https://github.com/M0Ghali/MarkdownSfyr?tab=readme-ov-file#system)
 
@@ -30,3 +30,7 @@ Roles refer to a specific function within a system that has a defined set of per
 # Employee
 
 An employee is an individual who is hired by a specific entity to perform designated tasks or duties, governed by an employment contract that outlines their responsibilities, rights, and benefits.
+
+# user
+
+A user is an individual who interacts with a system, application, or service, utilizing its features and functionalities to perform specific tasks. Users may have different levels of access or permissions within the system, based on their role or needs, which determine the actions they can take and the information they can access.
