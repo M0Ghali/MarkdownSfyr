@@ -1,5 +1,7 @@
 # Definition SFYR
 
+![System Sfyr](/System%20sfyr.png)
+
 # System
 
 A system is a group of interacting and interrelated elements that operate according to a set of rules and procedures, with the aim of achieving specific objectives.
@@ -33,4 +35,8 @@ An employee is an individual who is hired by a specific entity to perform design
 
 # user
 
-A user is an individual who interacts with a system, application, or service, utilizing its features and functionalities to perform specific tasks. Users may have different levels of access or permissions within the system, based on their role or needs, which determine the actions they can take and the information they can access.
+A user is an individual who interacts with the system. Users have different levels of access or permissions within the system based on their role or needs.
+
+# Permissions
+
+Permissions refer to the specific rights or privileges granted to users within a system that determine what actions they can perform, what data they can access, and what functionalities they can utilize. These permissions are essential for maintaining security and ensuring that users can only access information and perform actions relevant to their roles.
