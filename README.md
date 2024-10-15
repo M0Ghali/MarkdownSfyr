@@ -31,7 +31,11 @@ Roles refer to a specific function within a system that has a defined set of per
 
 # Employee
 
-An employee is an individual who is hired by a specific entity to perform designated tasks or duties, governed by an employment contract that outlines their responsibilities, rights, and benefits.
+An employee is a user who is registered in at least one entity and has self-service privileges
+
+# Self-Service
+
+Self-service refers to a system or process that allows users, especially employees, to access their own information and manage some tasks without the need for assistance.
 
 # user
 
